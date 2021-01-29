@@ -1,0 +1,26 @@
+
+
+
+student record
+staff record
+exam schedule
+result
+marksheet
+assignment submission
+
+harek kura ma blockchain hunxa
+
+
+
+
+
+
+
+
+
+1.An online shopping  for gadgets using collaborative filtering.
+
+2.School management system using blockchain.
+
+
+https://www.researchgate.net/publication/334480942_Management_Information_System_using_Blockchain_Technology_in_an_E-commerce_Enterprise_A_Systematic_Review
